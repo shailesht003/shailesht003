@@ -1,8 +1,8 @@
-com<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=shailesht003.shailesht003">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=shailesht003.shailesht003">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Welcome;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Welcome!;+T+This+is+Shailesh's+profile;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
