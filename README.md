@@ -1,51 +1,40 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  SHAILESH TRIPATHI | GITHUB PROFILE  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=&fontSize=0&animation=fadeIn" />
+<!-- ANIMATED HEADER BANNER WITH GRADIENT -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=180&section=header&text=Shailesh%20Tripathi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Software%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descSize=16&descAlignY=52&descAlign=50"/>
 
-<!-- PROFILE IMAGE WITH GLOW EFFECT -->
-<a href="https://github.com/shailesht003">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%E2%9C%A8+Welcome+to+my+Digital+Universe+%E2%9C%A8;I'm+Shailesh+Tripathi" alt="Typing SVG" />
-</a>
-
-<!-- ANIMATED SUBTITLE -->
 <br/>
+
+<!-- ANIMATED TYPING -->
 <a href="https://github.com/shailesht003">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&repeat=true&width=500&height=30&lines=Software+Developer+%7C+Problem+Solver+%7C+Tech+Enthusiast;Building+the+Future%2C+One+Line+at+a+Time" alt="Subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+Profile!;%F0%9F%92%BB+Building+the+Future+with+Code;%E2%9C%A8+Let's+Create+Something+Amazing!" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 <!-- SOCIAL BADGES -->
-<p>
 <a href="https://www.linkedin.com/in/shaileshtripathi003/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="https://github.com/shailesht003">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-</p>
+
+<br/><br/>
 
 <!-- PROFILE VIEWS & FOLLOWERS -->
-<p>
-<img src="https://komarev.com/ghpvc/?username=shailesht003&style=for-the-badge&color=0d1117&labelColor=161b22&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=shailesht003&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" alt="Profile Views"/>
 &nbsp;
 <a href="https://github.com/shailesht003?tab=followers">
-<img src="https://img.shields.io/github/followers/shailesht003?style=for-the-badge&color=0d1117&labelColor=161b22&label=FOLLOWERS&logo=github" alt="Followers"/>
+<img src="https://img.shields.io/github/followers/shailesht003?style=for-the-badge&color=6366F1&label=FOLLOWERS&logo=github" alt="Followers"/>
 </a>
-</p>
 
 </div>
-
-<!-- WAVE DIVIDER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2"/>
 
 <br/>
 
@@ -53,110 +42,72 @@
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ ABOUT ME ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
-
-<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF"/>
-
-</div>
-
-<br/>
+<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF"/>
 
 ```javascript
 const shailesh = {
     pronouns: "He" | "Him",
     location: "🌍 Earth, Milky Way",
     currentFocus: "Full Stack Development & AI/ML",
-    funFact: "I debug with console.log and I'm not ashamed! 😄",
+    funFact: "I debug with console.log and I'm proud! 😄",
     
     skills: {
-        languages: ["Python", "JavaScript", "TypeScript", "C++", "Java", "SQL"],
-        frontend: ["React", "Next.js", "HTML5", "CSS3", "TailwindCSS"],
-        backend: ["Node.js", "Express", "Django", "Flask", "FastAPI"],
-        databases: ["PostgreSQL", "MongoDB", "MySQL", "Redis"],
-        devOps: ["Docker", "Git", "GitHub Actions", "Vercel", "AWS"],
-        ai_ml: ["TensorFlow", "PyTorch", "Scikit-learn", "Pandas", "NumPy"]
+        languages: ["Python", "JavaScript", "TypeScript", 
+                    "C++", "Java", "SQL"],
+        frontend: ["React", "Next.js", "TailwindCSS"],
+        backend: ["Node.js", "Django", "Flask", "FastAPI"],
+        databases: ["PostgreSQL", "MongoDB", "MySQL"],
+        devOps: ["Docker", "Git", "GitHub Actions", "AWS"]
     },
     
-    currentlyLearning: ["System Design", "Cloud Architecture", "Advanced AI"],
-    
+    currentlyLearning: ["System Design", "Cloud Architecture"],
     askMeAbout: ["Web Dev", "Tech", "Problem Solving", "Coffee ☕"],
-    
     motto: "Code is poetry written in logic 💻"
 };
 ```
 
 <br clear="right"/>
 
+<br/>
+
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ TECH STACK ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
 
-<br/>
-
 <div align="center">
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
 <br/>
 
-<!-- LANGUAGES -->
-<details open>
-<summary><b>💻 Languages</b></summary>
-<br/>
-<p>
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,c,java,cs,php,go,rust&theme=dark" alt="Languages"/>
-</p>
-</details>
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,c,java,cs,php,go,rust&perline=10" alt="Languages"/>
 
-<br/>
+<br/><br/>
 
-<!-- FRONTEND -->
-<details open>
-<summary><b>🎨 Frontend</b></summary>
-<br/>
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,html,css,sass,tailwind,bootstrap,materialui&theme=dark" alt="Frontend"/>
-</p>
-</details>
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,html,css,sass,tailwind,bootstrap,materialui&perline=10" alt="Frontend"/>
 
-<br/>
+<br/><br/>
 
-<!-- BACKEND & DATABASE -->
-<details open>
-<summary><b>⚙️ Backend & Database</b></summary>
-<br/>
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,graphql,postgresql,mongodb,mysql,redis&theme=dark" alt="Backend"/>
-</p>
-</details>
+### ⚙️ Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,graphql,postgresql,mongodb,mysql,redis&perline=10" alt="Backend"/>
 
-<br/>
+<br/><br/>
 
-<!-- DEVOPS & TOOLS -->
-<details open>
-<summary><b>🚀 DevOps & Tools</b></summary>
-<br/>
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,git,github,githubactions,linux,vscode,figma&theme=dark" alt="DevOps"/>
-</p>
-</details>
+### 🚀 DevOps & Tools
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,git,github,githubactions,linux,vscode,figma&perline=10" alt="DevOps"/>
 
-<br/>
+<br/><br/>
 
-<!-- AI/ML & DATA -->
-<details open>
-<summary><b>🤖 AI/ML & Data Science</b></summary>
+### 🤖 AI/ML & Data Science
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&perline=10" alt="AI/ML"/>
 <br/>
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" alt="AI/ML"/>
-&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-</p>
-</details>
 
 </div>
 
@@ -173,45 +124,29 @@ const shailesh = {
 <br/>
 
 <!-- TROPHIES -->
-<p>
-<img src="https://github-profile-trophy.vercel.app/?username=shailesht003&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
-</p>
-
-<br/>
-
-<!-- STATS CARDS -->
-<p>
-<a href="https://github.com/shailesht003">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shailesht003&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats"/>
-</a>
-&nbsp;
-<a href="https://github.com/shailesht003">
-<img width="49%" src="https://streak-stats.demolab.com?user=shailesht003&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" alt="GitHub Streak"/>
-</a>
-</p>
-
-<br/>
-
-<!-- LANGUAGES & ACTIVITY GRAPH -->
-<p>
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shailesht003&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10" alt="Top Languages"/>
-</p>
-
-<br/>
-
-<!-- ACTIVITY GRAPH -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shailesht003&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" alt="Activity Graph"/>
+<img src="https://github-profile-trophy.vercel.app/?username=shailesht003&theme=algolia&no-frame=true&no-bg=false&column=7&margin-w=10" alt="GitHub Trophies"/>
 
 <br/><br/>
 
-<!-- CONTRIBUTION SNAKE -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shailesht003/shailesht003/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shailesht003/shailesht003/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/shailesht003/shailesht003/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<!-- STATS CARDS -->
+<a href="https://github.com/shailesht003">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shailesht003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/shailesht003">
+<img width="49%" src="https://streak-stats.demolab.com?user=shailesht003&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=ff9e64&currStreakLabel=70a5fd" alt="GitHub Streak"/>
+</a>
 
-</div>
+<br/><br/>
+
+<!-- TOP LANGUAGES -->
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shailesht003&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=10" alt="Top Languages"/>
+
+<br/><br/>
+
+<!-- ACTIVITY GRAPH -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shailesht003&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ff9e64&area=true&area_color=70a5fd&hide_border=true" alt="Activity Graph"/>
+
+  </div>
 
 <br/>
 
@@ -226,19 +161,21 @@ const shailesh = {
 <br/>
 
 <a href="https://github.com/shailesht003/portfolio">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shailesht003&repo=portfolio&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Portfolio"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shailesht003&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" alt="Portfolio"/>
+</a>
+<a href="https://github.com/shailesht003/LLM_Demo_StreamLit_App">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shailesht003&repo=LLM_Demo_StreamLit_App&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" alt="LLM Demo"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/shailesht003?tab=repositories">
-<img src="https://img.shields.io/badge/View%20All%20Repositories-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" alt="View All"/>
+<img src="https://img.shields.io/badge/🔎%20View%20All%20Repositories-6366F1?style=for-the-badge" alt="View All"/>
 </a>
 
 </div>
 
 <br/>
-
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ RANDOM DEV QUOTE ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
@@ -246,13 +183,13 @@ const shailesh = {
 
 <div align="center">
 
-## 💭 Random Dev Quote
+## 💭 Dev Quote
 
 <br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.&author=Cory%20House" alt="Dev Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 
-</div>
+  </div>
 
 <br/>
 
@@ -266,34 +203,25 @@ const shailesh = {
 
 <br/>
 
-<p>
 <a href="https://www.linkedin.com/in/shaileshtripathi003/">
-<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="https://github.com/shailesht003">
-<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-</p>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=20&lines=%E2%AD%90+Star+my+repos+if+you+find+them+useful!+%E2%AD%90" alt="Star"/>
 
 <br/><br/>
 
-<!-- ANIMATED THANK YOU -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Thanks+for+visiting!+%F0%9F%99%8F;Happy+Coding!+%F0%9F%92%BB;See+you+around!+%F0%9F%91%8B" alt="Thanks"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&height=30&lines=%E2%AD%90+Star+my+repos+if+you+find+them+useful!;%F0%9F%99%8F+Thanks+for+visiting!;%F0%9F%92%BB+Happy+Coding!" alt="Footer"/>
 
 </div>
 
 <br/>
 
 <!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=footer"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ Made with ❤️ by Shailesh ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
