@@ -16,17 +16,6 @@
 
 <br/><br/>
 
-<!-- SOCIAL BADGES -->
-<a href="https://www.linkedin.com/in/shaileshtripathi003/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://github.com/shailesht003">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<br/><br/>
-
 <!-- PROFILE VIEWS & FOLLOWERS -->
 <img src="https://komarev.com/ghpvc/?username=shailesht003&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" alt="Profile Views"/>
 &nbsp;
