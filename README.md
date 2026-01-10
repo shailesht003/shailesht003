@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER WITH GRADIENT -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=180&section=header&text=Shailesh%20Tripathi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Software%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descSize=16&descAlignY=52&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=180&section=header&text=Shailesh%20Tripathi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI%20and%20BI%20Consultant%20%7C%20Problem%20Solver%20%7C%20Swimmer&descSize=16&descAlignY=52&descAlign=50"/>
 
 <br/>
 
@@ -176,7 +176,7 @@ const shailesh = {
 
 <br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it's%20bad.&author=Cory%20House" alt="Dev Quote"/>
 
   </div>
 
