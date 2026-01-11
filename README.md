@@ -112,11 +112,6 @@ const shailesh = {
 
 <br/>
 
-<!-- TROPHIES -->
-<img src="https://github-profile-trophy.vercel.app/?username=shailesht003&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
-
-<br/><br/>
-
 <!-- STATS CARDS -->
 <a href="https://github.com/shailesht003">
 <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shailesht003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" alt="GitHub Stats"/>
@@ -149,11 +144,11 @@ const shailesh = {
 
 <br/>
 
-<a href="https://github.com/shailesht003/portfolio">
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=shailesht003&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" alt="Portfolio"/>
-</a>
 <a href="https://github.com/shailesht003/LLM_Demo_StreamLit_App">
 <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=shailesht003&repo=LLM_Demo_StreamLit_App&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" alt="LLM Demo"/>
+</a>
+<a href="https://github.com/shailesht003/shailesht003">
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=shailesht003&repo=shailesht003&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" alt="Profile Repo"/>
 </a>
 
 <br/><br/>
