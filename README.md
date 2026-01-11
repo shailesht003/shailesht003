@@ -112,12 +112,9 @@ const shailesh = {
 
 <br/>
 
-<!-- STATS CARDS -->
+<!-- STATS CARD -->
 <a href="https://github.com/shailesht003">
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shailesht003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" alt="GitHub Stats"/>
-</a>
-<a href="https://github.com/shailesht003">
-<img width="49%" src="https://streak-stats.demolab.com?user=shailesht003&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=ff9e64&currStreakLabel=70a5fd" alt="GitHub Streak"/>
+<img width="55%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shailesht003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" alt="GitHub Stats"/>
 </a>
 
 <br/><br/>
