@@ -119,7 +119,7 @@ const shailesh = {
 
 <!-- STATS CARDS -->
 <a href="https://github.com/shailesht003">
-<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shailesht003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shailesht003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" alt="GitHub Stats"/>
 </a>
 <a href="https://github.com/shailesht003">
 <img width="49%" src="https://streak-stats.demolab.com?user=shailesht003&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=ff9e64&currStreakLabel=70a5fd" alt="GitHub Streak"/>
@@ -128,7 +128,7 @@ const shailesh = {
 <br/><br/>
 
 <!-- TOP LANGUAGES -->
-<img width="40%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shailesht003&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=10" alt="Top Languages"/>
+<img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shailesht003&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=10" alt="Top Languages"/>
 
 <br/><br/>
 
@@ -150,10 +150,10 @@ const shailesh = {
 <br/>
 
 <a href="https://github.com/shailesht003/portfolio">
-<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=shailesht003&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" alt="Portfolio"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=shailesht003&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" alt="Portfolio"/>
 </a>
 <a href="https://github.com/shailesht003/LLM_Demo_StreamLit_App">
-<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=shailesht003&repo=LLM_Demo_StreamLit_App&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" alt="LLM Demo"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=shailesht003&repo=LLM_Demo_StreamLit_App&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" alt="LLM Demo"/>
 </a>
 
 <br/><br/>
