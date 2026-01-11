@@ -144,17 +144,8 @@ const shailesh = {
 
 <br/>
 
-<a href="https://github.com/shailesht003/LLM_Demo_StreamLit_App">
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=shailesht003&repo=LLM_Demo_StreamLit_App&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" alt="LLM Demo"/>
-</a>
-<a href="https://github.com/shailesht003/shailesht003">
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=shailesht003&repo=shailesht003&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" alt="Profile Repo"/>
-</a>
-
-<br/><br/>
-
 <a href="https://github.com/shailesht003?tab=repositories">
-<img src="https://img.shields.io/badge/🔎%20View%20All%20Repositories-6366F1?style=for-the-badge" alt="View All"/>
+<img src="https://img.shields.io/badge/🔎%20View%20All%20My%20Repositories-6366F1?style=for-the-badge" alt="View All"/>
 </a>
 
 </div>
