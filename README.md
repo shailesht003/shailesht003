@@ -1,179 +1,136 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  SHAILESH TRIPATHI | GITHUB PROFILE  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER WITH GRADIENT -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=180&section=header&text=Shailesh%20Tripathi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI%20and%20BI%20Consultant%20%7C%20Problem%20Solver%20%7C%20Swimmer&descSize=16&descAlignY=52&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=180&section=header&text=Shailesh%20Tripathi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Engineer%20%7C%20AI%20%26%20Data%20Platforms&descSize=16&descAlignY=52&descAlign=50"/>
 
 <br/>
 
-<!-- ANIMATED TYPING -->
 <a href="https://github.com/shailesht003">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+Profile!;%F0%9F%92%BB+Building+the+Future+with+Code;%E2%9C%A8+Let's+Create+Something+Amazing!" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
-<!-- PROFILE VIEWS & FOLLOWERS -->
-<img src="https://komarev.com/ghpvc/?username=shailesht003&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" alt="Profile Views"/>
-&nbsp;
-<a href="https://github.com/shailesht003?tab=followers">
-<img src="https://img.shields.io/github/followers/shailesht003?style=for-the-badge&color=6366F1&label=FOLLOWERS&logo=github" alt="Followers"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=50&lines=Building+AI-powered+data+platforms;Full+stack+%E2%80%94+Python+%2B+TypeScript+%2B+React;Turning+messy+data+into+clear+decisions" alt="Typing SVG" />
 </a>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ ABOUT ME ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
+## About Me
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+I build **AI-powered platforms** that solve real data and workflow problems — from enterprise developer automation to intelligent data integration. My work sits at the intersection of full-stack engineering and applied AI, with a focus on shipping products that are production-ready, not just prototypes.
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF"/>
-
-```javascript
-const shailesh = {
-    pronouns: "He" | "Him",
-    location: "🌍 Earth, Milky Way",
-    currentFocus: "Full Stack Development & AI/ML",
-    funFact: "I debug with console.log and I'm proud! 😄",
-    
-    skills: {
-        languages: ["Python", "JavaScript", "TypeScript", 
-                    "C++", "Java", "SQL"],
-        frontend: ["React", "Next.js", "TailwindCSS"],
-        backend: ["Node.js", "Django", "Flask", "FastAPI"],
-        databases: ["PostgreSQL", "MongoDB", "MySQL"],
-        devOps: ["Docker", "Git", "GitHub Actions", "AWS"]
-    },
-    
-    currentlyLearning: ["System Design", "Cloud Architecture"],
-    askMeAbout: ["Web Dev", "Tech", "Problem Solving", "Coffee ☕"],
-    motto: "Code is poetry written in logic 💻"
-};
-```
-
-<br clear="right"/>
+- Currently building **Vesh AI** — an intelligence layer that unifies fragmented enterprise data
+- Background in **BI consulting**, full-stack development, and AI/ML integration
+- I care about clean architecture, developer experience, and making complex systems feel simple
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ TECH STACK ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
+## Tech Stack
+
+**Languages & Frameworks**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+
+**Backend & Data**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**DevOps & AI**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+<br/>
+
+## Featured Projects
+
+> Most of my production work is in private repositories. Here's what I've been building:
+
+### Vesh AI
+**Intelligence layer for fragmented enterprise data**
+Connects to existing data sources — Stripe, Postgres, HubSpot — resolves entities across sources, and delivers revenue insights to Slack. No migration, no warehouse, no dashboards to build.
+
+`Next.js 16` `FastAPI` `Celery` `PostgreSQL` `Redis` `Docker`
+
+---
+
+### Odin AI
+**Enterprise developer automation platform**
+AI-powered orchestration for software teams — multi-model code generation, real-time CI/CD monitoring, automated testing, and data migration. Integrates with GitLab, GitHub, and JIRA.
+
+`React` `TypeScript` `FastAPI` `PostgreSQL` `Monaco Editor` `Docker`
+
+---
+
+### CodeOps
+**CI/CD and developer workflow automation**
+Enterprise platform with command centers for operations monitoring, solution design, AI-assisted development, and automated testing. Streamlines the full software delivery lifecycle.
+
+`React` `TypeScript` `Node.js` `GitLab API` `JIRA API` `Docker`
+
+---
+
+### Apollo AI
+**Full-stack SaaS platform for telecom ISPs**
+Comprehensive BSS dashboard with 36+ report types, Customer 360, order management, billing, product catalog, and inventory. Includes AI chatbot, gamification, and command palette.
+
+`Next.js 16` `React 19` `TypeScript` `Tailwind CSS 4` `Zustand` `Framer Motion` `GSAP`
+
+---
+
+### DataGuardian AI
+**AI-powered data quality management**
+Platform for automated data profiling, validation rule creation, anomaly detection, and quality scoring. Real-time monitoring with customizable reporting.
+
+`React` `TypeScript` `Machine Learning` `Data Validation`
+
+---
+
+### CreditIntel.AI
+**AI-powered credit scoring with multi-agent system**
+Agentic AI credit platform with specialized agents for eligibility, analysis, risk assessment, and recommendations. Interactive dashboard with real-time scoring demos.
+
+`Next.js` `TypeScript` `GenKit` `Multi-Agent AI` `Fintech`
+
+<br/>
+
+## GitHub Analytics
 
 <div align="center">
 
-## 🛠️ Tech Stack
-
-<br/>
-
-### 💻 Languages
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,c,java,cs,php,go,rust&perline=10" alt="Languages"/>
-
-<br/><br/>
-
-### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,html,css,sass,tailwind,bootstrap,materialui&perline=10" alt="Frontend"/>
-
-<br/><br/>
-
-### ⚙️ Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,graphql,postgresql,mongodb,mysql,redis&perline=10" alt="Backend"/>
-
-<br/><br/>
-
-### 🚀 DevOps & Tools
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,git,github,githubactions,linux,vscode,figma&perline=10" alt="DevOps"/>
-
-<br/><br/>
-
-### 🤖 AI/ML & Data Science
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&perline=10" alt="AI/ML"/>
-<br/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ GITHUB STATS ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 📊 GitHub Analytics
-
-<br/>
-
-<!-- STATS CARD -->
 <a href="https://github.com/shailesht003">
 <img width="55%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shailesht003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" alt="GitHub Stats"/>
 </a>
 
 <br/><br/>
 
-<!-- TOP LANGUAGES -->
-<img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shailesht003&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=10" alt="Top Languages"/>
+<img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shailesht003&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=8" alt="Top Languages"/>
 
 <br/><br/>
 
-<!-- ACTIVITY GRAPH -->
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shailesht003&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ff9e64&area=true&area_color=70a5fd&hide_border=true" alt="Activity Graph"/>
-
-  </div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ FEATURED PROJECTS ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🚀 Featured Projects
-
-<br/>
-
-<a href="https://github.com/shailesht003?tab=repositories">
-<img src="https://img.shields.io/badge/🔎%20View%20All%20My%20Repositories-6366F1?style=for-the-badge" alt="View All"/>
-</a>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ RANDOM DEV QUOTE ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
+## Let's Connect
 
 <div align="center">
-
-## 💭 Dev Quote
-
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it's%20bad.&author=Cory%20House" alt="Dev Quote"/>
-
-  </div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ CONNECT ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🤝 Let's Connect
-
-<br/>
 
 <a href="https://www.linkedin.com/in/shaileshtripathi003/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -183,17 +140,8 @@ const shailesh = {
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&height=30&lines=%E2%AD%90+Star+my+repos+if+you+find+them+useful!;%F0%9F%99%8F+Thanks+for+visiting!;%F0%9F%92%BB+Happy+Coding!" alt="Footer"/>
-
 </div>
 
 <br/>
 
-<!-- FOOTER WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=footer"/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ Made with ❤️ by Shailesh ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
