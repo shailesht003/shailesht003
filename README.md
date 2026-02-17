@@ -1,11 +1,11 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=180&section=header&text=Shailesh%20Tripathi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Engineer%20%7C%20AI%20%26%20Data%20Platforms&descSize=16&descAlignY=52&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,14,16,18,20&amp;height=180&amp;section=header&amp;text=Shailesh%20Tripathi&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=32&amp;desc=Full%20Stack%20Engineer%20%7C%20AI%20%26%20Data%20Platforms&amp;descSize=16&amp;descAlignY=52&amp;descAlign=50"/>
 
 <br/>
 
 <a href="https://github.com/shailesht003">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=50&lines=Building+AI-powered+data+platforms;Full+stack+%E2%80%94+Python+%2B+TypeScript+%2B+React;Turning+messy+data+into+clear+decisions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=6366F1&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=50&amp;lines=Building+AI-powered+data+platforms;Full+stack+%E2%80%94+Python+%2B+TypeScript+%2B+React;Turning+messy+data+into+clear+decisions" alt="Typing SVG" />
 </a>
 
 </div>
@@ -113,16 +113,16 @@ Agentic AI credit platform with specialized agents for eligibility, analysis, ri
 <div align="center">
 
 <a href="https://github.com/shailesht003">
-<img width="55%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shailesht003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" alt="GitHub Stats"/>
+<img width="55%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shailesht003&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=1a1b27&amp;title_color=70a5fd&amp;icon_color=bf91f3&amp;text_color=38bdae" alt="GitHub Stats"/>
 </a>
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shailesht003&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=8" alt="Top Languages"/>
+<img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shailesht003&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=1a1b27&amp;title_color=70a5fd&amp;text_color=38bdae&amp;langs_count=8" alt="Top Languages"/>
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shailesht003&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ff9e64&area=true&area_color=70a5fd&hide_border=true" alt="Activity Graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shailesht003&amp;bg_color=1a1b27&amp;color=70a5fd&amp;line=bf91f3&amp;point=ff9e64&amp;area=true&amp;area_color=70a5fd&amp;hide_border=true" alt="Activity Graph"/>
 
 </div>
 
@@ -133,15 +133,15 @@ Agentic AI credit platform with specialized agents for eligibility, analysis, ri
 <div align="center">
 
 <a href="https://www.linkedin.com/in/shaileshtripathi003/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="https://github.com/shailesht003">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
 </a>
 
 </div>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,14,16,18,20&amp;height=100&amp;section=footer"/>
